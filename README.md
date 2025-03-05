@@ -1,4 +1,4 @@
-# Secure Tracker Project 🚀
+# Secure Tracker Project 
 A microcontroller-based tracking device with secure charging, GPS, and NB-IoT communication.
 
 ## Features
